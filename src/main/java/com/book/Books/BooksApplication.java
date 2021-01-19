@@ -15,5 +15,4 @@ public class BooksApplication {
 		SpringApplication.run(BooksApplication.class, args);
 		System.out.println("Welcome to our book store");
 	}
-
 }
